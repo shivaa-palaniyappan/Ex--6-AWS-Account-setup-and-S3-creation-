@@ -1,6 +1,6 @@
 ## Ex.2 Cloud Storage Creation (S3) and Launching an EC2 Instance in AWS
-## NAME: JAIYANTAN S
-## REG NO: 212224100021
+## NAME: VIGNESH V
+## REG NO: 212223110062
 ## Aim
 To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in AWS.
 
